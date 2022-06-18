@@ -16,3 +16,10 @@ Edit `/etc/default/grub`, making sure this line (or a variant of it) exists:
 And then run:
 
 `sudo grub-mkconfig -o /boot/grub/grub.cfg`
+
+## Build Debian package
+
+```shell
+sudo mk-build-deps ./debian/control -i -t "apt-get --yes" -r
+dpkg-buildpackage -b -uc -us
+```

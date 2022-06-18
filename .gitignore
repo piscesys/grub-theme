@@ -1,0 +1,4 @@
+debian/.debhelper/
+debian/piscesys-grub-theme.debhelper.log
+debian/piscesys-grub-theme.substvars
+debian/piscesys-grub-theme/

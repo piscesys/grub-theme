@@ -1,5 +1,6 @@
-piscesys-grub-theme (0.1) UNRELEASED; urgency=low
+piscesys-grub-theme (0.1.1) misaka; urgency=low
 
-  * Initial release (Pisces System)  <support@cirily.com>
+  * feat: Smaller fonts
+  * fix : Background image
 
- -- Tsukuyomi Toki <huangzimocp@126.com>  Sun, 18 Jun 2022 21:21:21 +0800
+ -- Tsukuyomi Toki <huangzimocp@126.com>  Sun, 19 Jun 2022 13:18:23 +0800

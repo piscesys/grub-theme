@@ -21,7 +21,7 @@ terminal-box: "terminal_*.png"
   left = 20%
   width = 60%
   top = 30%
-  height = 60%
+  height = 40%
 
   menu_pixmap_style = "boot_menu_*.png"
 

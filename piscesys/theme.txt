@@ -51,7 +51,11 @@ terminal-box: "terminal_*.png"
   left = 10%
   width = 80%
   top = 75%
-  height = 10
+  height = 36
+
+  text = "@TIMEOUT_NOTIFICATION_SHORT@"
+  text_color = "#eff0f1"
+  font = "Unifont 24"
 
   bar_style = "progress_bar_*.png"
   highlight_style = "progress_highlight_*.png"

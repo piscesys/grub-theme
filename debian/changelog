@@ -1,6 +1,5 @@
-piscesys-grub-theme (0.1.3) misaka; urgency=low
+piscesys-grub-theme (0.1.4) misaka; urgency=low
 
-  * fix : font issues, progress bar, console background, boot failure
-  * feat: Unifont, black terminal background
+  * feat: Better progress bar, rounded corners, better terminal
 
- -- Tsukuyomi Toki <huangzimocp@126.com>  Sun, 19 Jun 2022 15:20:00 +0800
+ -- Tsukuyomi Toki <huangzimocp@126.com>  Sat, 25 Jun 2022 21:42:21 +0800

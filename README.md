@@ -1,5 +1,5 @@
-# Piscesys-grub2-theme
-The default GRUB2 theme for Pisces System. A fork from [gustawho](https://github.com/gustawho/grub2-theme-breeze)
+# Piscesys-grub-theme
+The default GRUB theme for Pisces System. A fork from [gustawho](https://github.com/gustawho/grub2-theme-breeze)
 
 ## License
 GPLv3, which CC BY-SA, the license for grub2-theme-breeze, is one-way compatible with.
